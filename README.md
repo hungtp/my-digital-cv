@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## My Info
 
-You can use the [editor on GitHub](https://github.com/hungtp/my-digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Email](mailto:mrphihung92@gmail.com) / [Github](https://github.com/hungtp)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Technical Experiences
 
-### Markdown
+**Developer** (2015 - Present)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Develop modules on [Intra-mart Accel platform](https://www.intra-mart.com/).
+  - Description: Develop & maintain custom modules for customers
+  - Languages: HTML, CSS, Java, JavaScript(jQuery), SQL(PostgreSQL)
+  - Framework: [SAStruts](http://sastruts.seasar.org), [TERASOLUNA Server](https://terasolunaorg.github.io/)
 
-```markdown
-Syntax highlighted code block
+- Develop a website.
+  - Description: fetching video from other websites
+  - Languages: HTML, CSS, PHP, JavaScript(jQuery), SQL(MySQL)
+  - Framework: CodeIgniter
 
-# Header 1
-## Header 2
-### Header 3
+## Skills
 
-- Bulleted
-- List
+ ### Programming languages
+  - Java
+  - PHP
+  - JavaScript
+  - HTML, CSS
 
-1. Numbered
-2. List
+ ### Frameworks & platforms
+  - Intra-mart Accel Platform
+  - SAStruts, Terasoluna Server
+  - CodeIgniter
+  - jQuery / Twitter Bootstrap
 
-**Bold** and _Italic_ and `Code` text
+ ### Database
+  - PostgreSQL
+  - MySQL
 
-[Link](url) and ![Image](src)
-```
+ ### Version Control
+  - Git
+  - SVN (TortoiseSVN)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hungtp/my-digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ ### IDE
+  - Eclipse
+  - Visual Studio Code
