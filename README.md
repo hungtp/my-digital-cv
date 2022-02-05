@@ -7,14 +7,14 @@
 **Developer** (2015 - Present)
 
 - Develop modules on [Intra-mart Accel platform](https://www.intra-mart.com/).
-  - Description: Develop & maintain custom modules for customers
-  - Languages: HTML, CSS, Java, JavaScript(jQuery), SQL(PostgreSQL)
-  - Framework: [SAStruts](http://sastruts.seasar.org), [TERASOLUNA Server](https://terasolunaorg.github.io/)
+  - **Description**: develop & maintain custom modules for customers
+  - **Languages**: HTML, CSS, Java, JavaScript(jQuery), SQL(PostgreSQL)
+  - **Framework**: [SAStruts](http://sastruts.seasar.org), [TERASOLUNA Server](https://terasolunaorg.github.io/)
 
 - Develop a website.
-  - Description: fetching video from other websites
-  - Languages: HTML, CSS, PHP, JavaScript(jQuery), SQL(MySQL)
-  - Framework: CodeIgniter
+  - **Description**: fetch video from other websites
+  - **Languages**: HTML, CSS, PHP, JavaScript(jQuery), SQL(MySQL)
+  - **Framework**: CodeIgniter
 
 ## Skills
 
